@@ -1,2 +1,2 @@
 # To-Do-List
-HTML CSS JS
+Create To Do List In JavaScript
